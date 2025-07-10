@@ -18,7 +18,10 @@
     "url": "https://github.com/beagleworks/writings/issues"
   },
   "homepage": "https://github.com/beagleworks/writings#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@textlint-ja/textlint-rule-preset-ai-writing": "^1.5.0",
+    "textlint": "^15.2.0",
+    "textlint-rule-no-todo": "^2.0.1",
     "zenn-cli": "^0.2.1"
   }
 }

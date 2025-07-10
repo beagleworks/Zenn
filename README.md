@@ -1,15 +1,17 @@
 # writings
 for my writings
 
-# Zenn CLI
-  🎉  Done!
-  早速コンテンツを作成しましょう
+## Zenn
 
-  👇  新しい記事を作成する
-  $ npx zenn new:article
+### Articles
+npx zenn new:article
+npx zenn new:article --slug 記事のスラッグ --title タイトル --type idea --emoji ✨
 
-  👇  新しい本を作成する
-  $ npx zenn new:book
+### emoji
+https://zenn.dev/puka/articles/pkpk3-zenn_emoji_list
 
-  👇  投稿をプレビューする
-  $ npx zenn preview
+### Zenn Uploader(for Images)
+https://zenn.dev/dashboard/uploader
+
+### Preview
+npx zenn preview
