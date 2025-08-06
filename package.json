@@ -1,23 +1,23 @@
 {
-  "name": "writings",
+  "name": "zenn",
   "version": "1.0.0",
-  "description": "for my writings",
+  "description": "zenn articles",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beagleworks/writings.git"
+    "url": "git+https://github.com/beagleworks/Zenn.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/beagleworks/writings/issues"
+    "url": "https://github.com/beagleworks/Zenn/issues"
   },
-  "homepage": "https://github.com/beagleworks/writings#readme",
+  "homepage": "https://github.com/beagleworks/Zenn#readme",
   "devDependencies": {
     "@textlint-ja/textlint-rule-preset-ai-writing": "^1.5.0",
     "textlint": "^15.2.0",
