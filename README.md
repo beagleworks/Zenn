@@ -14,3 +14,4 @@ https://zenn.dev/puka/articles/pkpk3-zenn_emoji_list
 ## Preview
 
 npx zenn preview
+npx zenn preview --port 6789
