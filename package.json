@@ -23,5 +23,8 @@
     "textlint": "^15.2.0",
     "textlint-rule-no-todo": "^2.0.1",
     "zenn-cli": "^0.2.5"
+  },
+  "dependencies": {
+    "textlint-filter-rule-allowlist": "^4.0.0"
   }
 }
