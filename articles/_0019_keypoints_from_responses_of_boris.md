@@ -174,6 +174,11 @@ https://x.com/oikon48/status/2008125761128144965
 
 BorisとClaude Codeチームに最大限の敬意を表したいと思います。
 
+# 筆者のXについて
+
+XでもAI関連の情報の発信や交流をしておりますので、お気軽にフォローしていただければ幸いです。
+https://x.com/beagle_dog_inu
+
 # 参考文献
 
 https://x.com/bcherny
