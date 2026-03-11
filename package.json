@@ -23,6 +23,6 @@
     "textlint": "^15.2.0",
     "textlint-filter-rule-allowlist": "^4.0.0",
     "textlint-rule-no-todo": "^2.0.1",
-    "zenn-cli": "^0.4.5"
+    "zenn-cli": "^0.4.6"
   }
 }
