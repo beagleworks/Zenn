@@ -224,9 +224,8 @@ https://x.com/beagle_dog_inu
 
 # 参考文献
 
-WSL2を掘ってみた
 https://qiita.com/walterkammi/items/ba2984957503189868f2
-Linuxオーディオ：ALSAとPulseAudioの関係
+
 https://note.com/bsoft/n/n0922a9d70232
-ALSA - Gentoo wiki
+
 https://wiki.gentoo.org/wiki/ALSA/ja
