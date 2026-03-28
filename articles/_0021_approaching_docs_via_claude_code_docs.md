@@ -1,5 +1,5 @@
 ---
-title: "Claude Code Docsを通じてドキュメントとの向き合い方を考えてみる"
+title: "Claude Code Docsを使ったドキュメントとの向き合い方"
 emoji: "📖"
 type: "idea"
 topics: ["ai", "claudecode", "anthropic", "codingagent"]
@@ -10,7 +10,7 @@ published: true
 
 突然ですが、Claude Codeの[公式ドキュメント(Claude Code Docs)](https://code.claude.com/docs/ja)を読んだことがありますか？
 
-2026年3月27日に開催される[Claude Code for Everyone in Tokyo](https://luma.com/p3xd9wya)では、公式ドキュメントを読むことがテーマになっています。私も参加しますので、参加される方はよろしくお願いします。
+2026年3月27日に開催された[Claude Code for Everyone in Tokyo](https://luma.com/p3xd9wya)では、公式ドキュメントを読むことがテーマになっていました。60人近いメンバーが公式ドキュメントを読んで発見を共有するというとても貴重な機会で学びが多かったです。
 
 ということでこの記事では、Claude Code Docsの「はじめに」ページを題材に、私がドキュメントから何をどのように読み取るのかを実演してみます。
 
